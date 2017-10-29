@@ -1,0 +1,5 @@
+Extract Recognizer.rar and SqlLiteStudio.rar
+Run faced.py
+Enter the ID(integer) and Name of the person and click store
+Look into the camera and wait for it to detect and create a dataset off images of your face
+To test, Click Analyse Button and your face will be detected and the name will be displayed which you have provided.
